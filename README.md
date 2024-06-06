@@ -18,10 +18,11 @@ Verificação de Paciente: Capacidade de verificar informações sobre um pacien
 
 -DIAGRAMA DE CLASSES:
 
-https://lucid.app/lucidchart/6dabecee-ab64-47ee-afdb-334b59ad9b84/edit?invitationId=inv_7af512cc-b675-4148-87d2-0b65d57aa0e6&page=HWEp-vi-RSFO#
+![Diagrama de Classes](https://github.com/Guilherme0Medeiros/Projeto-Hospital/assets/141882636/161310c2-cbe4-4a49-8df7-a8bd7c30f12e)
 
 CASOS DE USO:
 
-https://lucid.app/lucidchart/b5616c8f-9bd2-421e-afcd-0e7abf8c1f34/edit?invitationId=inv_71236538-8dd3-4fa5-9946-f494697b8f3a&page=0_0#
+![Casos de Uso](https://github.com/Guilherme0Medeiros/Projeto-Hospital/assets/141882636/a5f243e7-b008-4428-9d62-ce7b812a5419)
+
 
 PEDRO LUCAS AZEVEDO, PEDRO HENRIQUE LUCENA GOMES, GUILHERME MEDEIROS DA SILVA, MATHEUS CABRAL DOS SANTOS QUEIROZ
